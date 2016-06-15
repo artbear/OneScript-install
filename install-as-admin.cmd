@@ -8,3 +8,5 @@
 @%temp%\oscript-setup.exe /silent /log="%temp%\oscript-setup.log"  /saveinf="%temp%\oscript-setup-settings.ini"
 
 @type %temp%\oscript-setup.log
+
+@oscript
